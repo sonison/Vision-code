@@ -7,3 +7,6 @@ hand detecting or position detecting
 파란색 사각형 영역의 HSV색상을 평균값으로 정하고 전체 영상의 이진화를 진행함
 
 ros node name : hand_number
+
+# 220420_binary
+이기주가 만든 이진화부분.. 
